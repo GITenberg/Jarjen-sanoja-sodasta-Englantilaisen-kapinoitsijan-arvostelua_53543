@@ -1,0 +1,36 @@
+_repo: Jarjen-sanoja-sodasta-Englantilaisen-kapinoitsijan-arvostelua_53543
+_version: 0.0.1
+alternative_title: Common sense about the war. Finnish
+contributor:
+  translator:
+    agent_name: Wallenius, Toivo
+    birthdate: 1881
+    deathdate: 1919
+    gutenberg_agent_id: '43144'
+    url: http://www.gutenberg.org/2009/agents/43144
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    aliases:
+    - Shaw, George Bernard
+    - Shaw, Bernhard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+description: ''
+gutenberg_issued: '2016-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53543'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+- GITenberg
+title: 'Järjen sanoja sodasta: Englantilaisen "kapinoitsijan" arvostelua'
+url: http://www.gutenberg.org/ebooks/53543
